@@ -1,5 +1,5 @@
-ServiceName: majun-source-credible-consisitency-test-environment
+ServiceName: majun-source-credible-consisitency-production-environment
 UserName: qiutangke
 Email: q_qiutangke@163.com
-Role: developer
+Role: viewer
 TimeLimit: 30
