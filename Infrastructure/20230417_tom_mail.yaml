@@ -1,0 +1,6 @@
+Cluster: infra-hk-cluster
+NameSpace: mail
+UserName: tom
+Email: tom_toworld@163.com
+Role: admin
+TimeLimit: 180
