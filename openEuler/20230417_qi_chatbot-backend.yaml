@@ -1,0 +1,6 @@
+Cluster:  mindspore-hk-test-cluster   # 集群名称
+NameSpace: openeuler-chatbot        # 命名空间
+UserName: qi          # 用户名称；限制：由数字、小写字母组成，不能含有特殊字符，最长长度为20，不能包含大写字母。
+Email: guoqiang.qi1@gmail.com          # 用于接受kubeconfig的邮件
+Role: developer # 申请角色；admin为拥有所有权限，developer为开发者权限，进入容器权限， viewer只能查看日志 
+TimeLimit: 180                 # 时间限制；单位：天；限制：必须为数字类型，不能小于0。
