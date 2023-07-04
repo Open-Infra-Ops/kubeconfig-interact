@@ -1,0 +1,6 @@
+Cluster:  mindspore-hk-test-cluster   # 集群名称
+NameSpace: openeuler-cache-proxy        # 命名空间
+UserName: skyblne          # 用户名称；限制：由数字、小写字母组成，不能含有特殊字符，最长长度为20，不能包含大写字母。
+Email: 3290937695@qq.com          # 用于接受kubeconfig的邮件
+Role: viewer # 申请角色；admin为拥有所有权限，developer为开发者权限，进入容器权限， viewer只能查看日志 
+TimeLimit: 29                # 时间限制；单位：天；限制：必须为数字类型，不能小于0。
