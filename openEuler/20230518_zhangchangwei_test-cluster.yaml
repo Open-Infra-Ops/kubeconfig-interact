@@ -3,4 +3,4 @@ NameSpace: openguardfuzz-webserver
 UserName: zhangchangwei
 Email: 1953228417@qq.com
 Role: viewer
-TimeLimit: 30
+TimeLimit: 365
