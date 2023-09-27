@@ -1,5 +1,5 @@
 Cluster: mindspore-hk-test-cluster
-NameSpace: openeuler-software-pkg-test
+NameSpace: software-pkg-test
 UserName: yangwei
 Email: 348134071@qq.com
 Role: developer
