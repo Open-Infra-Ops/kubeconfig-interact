@@ -1,0 +1,6 @@
+Cluster: mindspore-cn-north1-new-cluster
+NameSpace: cla-migration
+UserName: zhuchao
+Email: tom_toworld@163.com
+Role: admin
+TimeLimit: 30
