@@ -1,0 +1,6 @@
+Cluster: mindspore-hk-test-cluster
+NameSpace: dbgpt
+UserName: wucaiping
+Email: wucaiping1@huawei.com
+Role: admin 
+TimeLimit:365
