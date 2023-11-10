@@ -3,4 +3,4 @@ NameSpace: dbgpt
 UserName: wucaiping
 Email: wucaiping1@huawei.com
 Role: admin 
-TimeLimit:365
+TimeLimit:30
