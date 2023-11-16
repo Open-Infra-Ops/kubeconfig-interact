@@ -1,0 +1,6 @@
+Cluster: mindspore-hk-test-cluster
+NameSpace: aigc-pr-review
+UserName: wucaiping
+Email: sch_na@163.com
+Role: admin 
+TimeLimit:30
