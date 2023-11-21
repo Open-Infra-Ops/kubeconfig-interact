@@ -1,0 +1,6 @@
+Cluster:  mindspore-hk-test-cluster
+NameSpace: openeuler-chatbot
+UserName: qi
+Email: guoqiang.qi1@gmail.com
+Role: developer
+TimeLimit: 180
